@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liulion2022
 - 👀 I’m interested in films,business.
-- 🌱 I’m currently learning business
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning business.
+- 💞️ I’m looking to collaborate on business of mosaic.
 - 📫 How to reach me,please leave a message to my E-mail at 605831616@qq.com.
 
 <!---
